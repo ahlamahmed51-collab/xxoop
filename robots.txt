@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xxoop-theta.vercel.app/sitemap.xml
